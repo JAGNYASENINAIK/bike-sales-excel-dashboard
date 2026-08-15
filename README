@@ -1,0 +1,35 @@
+# Bike Sales Analysis Dashboard
+
+## Overview
+
+An Excel-based analysis of 1,000 customer records to understand
+bike purchasing patterns across different customer segments.
+
+## Tools Used
+
+- Microsoft Excel
+- PivotTables
+- PivotCharts
+- Excel formulas
+- Data cleaning
+- Dashboard creation
+
+## Analysis
+
+The project analyzes bike purchases based on:
+
+- Age Group
+- Income Bracket
+- Commute Distance
+- Occupation
+
+## Key Findings
+
+- Middle Age customers had the highest purchase rate among age groups: 54.64%.
+- Customers commuting 2–5 miles had the highest purchase rate: 59.79%.
+- High Income customers had the highest purchase rate among income brackets: 52.63%.
+- Professional customers had the highest purchase rate among occupations: 54.35%.
+
+## Dashboard
+
+![Bike Sales Dashboard](Dashboard.png)
